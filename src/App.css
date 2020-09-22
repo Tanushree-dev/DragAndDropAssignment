@@ -1,0 +1,60 @@
+
+
+    .App  {
+      width :  100% ;
+      margin :  0   auto ;
+   }
+    
+   .drag-container  {
+      text-align :  center ;
+   }
+    
+   .head  {
+      display :  inline-block ;
+      margin :  0 ;
+      padding :  0 ;
+      background-color :  midnightblue ;
+      width :  100% ;
+      color :  white ;
+   }
+    
+   .group-header  {
+      font-weight :  bold ;
+   }
+    
+   .column-divided  {
+      display :  flex ;
+      flex-direction :  column ;
+   }
+    
+   .droppable  {
+      margin-top :  10px ;
+      margin-right :  250px ;
+      position :  absolute ;
+      width :  200px ;
+      height :  200px ;
+      right :  0 ;
+      top :  10 ;
+      background-color :  lightblue ;
+   }
+    
+   .draggable  {
+      width :  100px ;
+      height :  100px ;
+      text-align :  center ;
+      color :  white ;
+      background-color :  darkviolet ;
+      margin :  10px   auto ;
+   }
+    
+   .yesCatergory  {
+      margin-top :  10px ;
+      margin-left :  250px ;
+      position :  absolute ;
+      width :  200px ;
+      height :  200px ;
+      left :  0 ;
+      top :  10 ;
+      background-color :  lightblue ;
+   }    
+   
